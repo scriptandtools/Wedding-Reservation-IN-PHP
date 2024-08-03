@@ -1,0 +1,112 @@
+/* registration */
+#user{ color: red; }
+#pass{ color: red; }
+#pass1{ color: red; }
+/* end registration */
+.navbar{
+  border: none;
+  border-radius: 0;
+  background: rgba(0,0,0,0.2);
+}
+
+html, body{
+  height: 100%;
+}
+
+.carousel-inner, .carousel, .item, .fill {
+  height:100%;
+  width:100%;
+  background-position:center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+div, body{
+  margin: 0;
+  padding: 0;
+}
+
+.carousel-indicators li {
+  display: inline-block;
+  width: 40px;
+  height: 4px;
+  margin: 0px;
+  background-color: rgba(255, 255, 255, 0.6);
+  border: 2px;
+  border-radius: 0px;
+}
+
+.carousel-indicators .active {
+  width: 40px;
+  height: 4px;
+}
+
+.reservation{
+       background-image: url('../img/bg-reserve.jpg');
+       background-position:center center;
+       background-repeat: no-repeat;
+       background-size: cover;
+       min-height: 800px;
+       padding: 50px 0;
+       width:100%;
+}
+
+.form-limit{
+       width: 80%;
+       position: relative;
+       left: 50%;
+       margin-left: -40%;
+}
+
+.vector-w-head, .vector-w-foot, .vector-g-head, .vector-g-foot{
+       position: relative;
+       margin: 30px auto;
+}
+
+.vector-w-head, .vector-g-head {
+         padding-top: 42px;
+}
+
+.vector-w-foot, .vector-g-foot {
+       padding-bottom: 42px;
+       bottom: 0;
+}
+
+.vector-w-head {
+    background: url(../img/vectorwhead.png) no-repeat center top;
+}
+
+.vector-w-foot {
+    background: url(../img/vectorwfoot.png) no-repeat center center;
+}
+
+.vector-g-head {
+    background: url(../img/vectorghead.png) no-repeat center top;
+}
+
+.vector-g-foot {
+    background: url(../img/vectorgfoot.png) no-repeat center center;
+}
+.help-block{
+       text-shadow: 2px 2px 3px rgba(255,255,255,0.8);
+}
+.photographer-section{
+       padding: 20px 0;
+}
+.photographer-profile{
+       margin-top: 100px;
+}
+.photographer{
+       height: 640px;
+       display: flex;
+       background-position: center 0px;
+       background-repeat: repeat-y;
+       background-attachment: fixed;
+       margin: 100px 0;
+
+}
+.h2 {
+    position: relative;
+    left: 100px;
+    top: 150px;
+}
