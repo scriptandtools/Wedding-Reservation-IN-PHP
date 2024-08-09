@@ -28,6 +28,46 @@ MAC
 
 Linux
 
+## Features:
+
+User Registration & Login
+
+Profile Management
+
+Venue Booking
+
+Catering Service Booking
+
+Photographer/Videographer Booking
+
+Event Planning & Coordination
+
+Florist & Decoration Booking
+
+Entertainment & Music Booking
+
+Invitation Management
+
+Guest List Management
+
+Seating Arrangement
+
+Payment Integration
+
+Booking History
+
+Reservation Confirmation
+
+Booking Cancellation & Refunds
+
+Vendor Search by Category
+
+Event Timeline Management
+
+Role-Based Access Control
+
+Admin Dashboard
+
 ## Installation:
 
 To run this project you must have installed a virtual server i.e. XAMPP on your PC. Wedding Reservation in PHP with source code is free to download, Use for educational purposes only!
